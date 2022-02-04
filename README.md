@@ -2,7 +2,12 @@
 
 DESCRIPTION
 
-This program uses Plotly to create radar charts of professors on RateMyProfessor (https://www.ratemyprofessors.com/).
+This program uses Plotly to visualize data from RateMyProfessor (https://www.ratemyprofessors.com/).
+
+FEATURES
+
+1. 'Ratings for Courses by Professor' in the form of a radar chart
+
 
  
 SET-UP
