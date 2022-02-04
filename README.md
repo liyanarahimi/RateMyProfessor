@@ -21,3 +21,8 @@ SET-UP
 
     - A full documentation of this module can be found here:
       https://github.com/Nobelz/RateMyProfessorAPI
+      
+2. System must have Plotly installed
+
+    - A full documentation of this module can be found here:
+      https://plotly.com/python/getting-started/
