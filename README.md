@@ -6,8 +6,9 @@ This program uses Plotly to visualize data from RateMyProfessor (https://www.rat
 
 FEATURES
 
-1. 'Ratings for Courses by Professor' in the form of a radar chart
+1. Radar charts of professor ratings by course:
 
+![alt text](https://github.com/liyanarahimi/RateMyProfessor/blob/33e2611858473ff8bd9b9963d88d94ae521e8952/Courses%20by%20Angel%20Hessel.png)
 
  
 SET-UP
