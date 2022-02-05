@@ -127,6 +127,7 @@ class rmpCharts:
         pyo.plot(bar, filename = self.path + r"/" + self.professor.name + r" Grades.html")
 
 while True:
+    # Runs data visualization until user exits
     run = input("\n Would you like to visualize new data from RateMyProfessor? Y/N ")
     if run.upper() == "Y":
         rmpCharts()
