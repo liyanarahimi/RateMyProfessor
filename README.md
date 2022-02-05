@@ -10,9 +10,9 @@ FEATURES
 
 ![alt text](https://github.com/liyanarahimi/RateMyProfessor/blob/33e2611858473ff8bd9b9963d88d94ae521e8952/Courses%20by%20Angel%20Hessel.png)
 
-2. Stacked histogram of grade distributions by course:
+2. Grouped bar chart of letter grades by course:
 
-![alt_text](https://github.com/liyanarahimi/RateMyProfessor/blob/80b18fc9fc38b1087ea38bab6036c57b8a8bb463/Grades%20for%20Mehran%20Sahami.png)
+![alt_text](https://github.com/liyanarahimi/RateMyProfessor/blob/a076f2685177c505b833993a785b26bfd09724bc/Grades%20for%20Mehran%20Sahami.png)
 
  
 SET-UP
