@@ -2,7 +2,7 @@
 
 DESCRIPTION
 
-This program uses Plotly to visualize data from RateMyProfessor (https://www.ratemyprofessors.com/).
+This program uses Plotly to visualize data from RateMyProfessor (https://www.ratemyprofessors.com/) to help university students with their course enrollment.
 
 FEATURES
 
